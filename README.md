@@ -1,5 +1,8 @@
 ## Book
 - [Pythonで学ぶフーリエ解析と信号処理](https://www.coronasha.co.jp/np/isbn/9784339009378/)
+- Purchase Date: YYMMDD (DRMfree)
+
+<img src="https://www.coronasha.co.jp/imgs/cover/9784339009378.jpg" height=150px>
 
 ## CheckList
 - [ ] **1．Pythonと便利なライブラリたち**
